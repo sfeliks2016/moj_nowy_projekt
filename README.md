@@ -1,2 +1,2 @@
 # moj_nowy_projekt
-intro JS
+intro JS bla bla bla
